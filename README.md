@@ -1,4 +1,4 @@
-# tw1tchy-son
+# twitchy-son
 
 A brilliant web application that uses the Twitch API to create a stream client
 
@@ -6,9 +6,9 @@ A brilliant web application that uses the Twitch API to create a stream client
 
 - Open your terminal `:)`
 - Clone the repository
-  - `git clone https://github.com/dnelsonsilvav/tw1tchy-son.git`
+  - `git clone https://github.com/dnelsonsilvav/twitchy-son.git`
 - Enter to the repository directory
-  - `cd tw1tchy-son`
+  - `cd twitchy-son`
 - Install all the dependencies
   - `yarn install` or `npm install`
 - Get your Twitch API Client ID

@@ -37,7 +37,7 @@ const App = () => (
           <Header as="h2" icon inverted textAlign="center">
             <Link to="/">
               <Icon name="twitch" />
-              tw1tchy-son
+              twitchy-son
               <Header.Subheader>
                 {
                   "My dad gotten all the fame, however, I can also do some of the things that he does every day (I'm way better than him)."
